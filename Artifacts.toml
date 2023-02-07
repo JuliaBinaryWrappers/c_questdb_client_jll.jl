@@ -1,0 +1,79 @@
+[[c_questdb_client]]
+arch = "aarch64"
+git-tree-sha1 = "4f91d5d912362cd33a3ee47bc5b964866e4c0e78"
+os = "macos"
+
+    [[c_questdb_client.download]]
+    sha256 = "3050068800607c6b0836a35e3bd4e80069cae3935347c918a57a1515bbf76b56"
+    url = "https://github.com/JuliaBinaryWrappers/c_questdb_client_jll.jl/releases/download/c_questdb_client-v2.1.3+0/c_questdb_client.v2.1.3.aarch64-apple-darwin.tar.gz"
+[[c_questdb_client]]
+arch = "aarch64"
+git-tree-sha1 = "16a5dae4cb3722c3f356c6739b628ae65aceefde"
+libc = "glibc"
+os = "linux"
+
+    [[c_questdb_client.download]]
+    sha256 = "e57977d20f3b985ba5e20b8e1cc97decf9396ab049db51f94613eb6483e1281b"
+    url = "https://github.com/JuliaBinaryWrappers/c_questdb_client_jll.jl/releases/download/c_questdb_client-v2.1.3+0/c_questdb_client.v2.1.3.aarch64-linux-gnu.tar.gz"
+[[c_questdb_client]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f9f3e78ec91c6cdb8db9c82990bd0005aa4c45b2"
+libc = "glibc"
+os = "linux"
+
+    [[c_questdb_client.download]]
+    sha256 = "50e742ef34c3671e31534ee00e82494431ea4e5b2b5727575d4fc24c3c565e90"
+    url = "https://github.com/JuliaBinaryWrappers/c_questdb_client_jll.jl/releases/download/c_questdb_client-v2.1.3+0/c_questdb_client.v2.1.3.armv6l-linux-gnueabihf.tar.gz"
+[[c_questdb_client]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "93e5eb7dc87586bb0ac006ed5c8d65cc52be6276"
+libc = "glibc"
+os = "linux"
+
+    [[c_questdb_client.download]]
+    sha256 = "9280d2283c8a65b49e53aaa1ab7d5d07ecfa35c0d7be5ef8c000d664ab0f26ed"
+    url = "https://github.com/JuliaBinaryWrappers/c_questdb_client_jll.jl/releases/download/c_questdb_client-v2.1.3+0/c_questdb_client.v2.1.3.armv7l-linux-gnueabihf.tar.gz"
+[[c_questdb_client]]
+arch = "i686"
+git-tree-sha1 = "1d6e14b32c376371caf7ebf85c57b6a177055457"
+libc = "glibc"
+os = "linux"
+
+    [[c_questdb_client.download]]
+    sha256 = "4963a1643fc8e850a64d4db28c95f2378a109eb42f2113d8c5098c305c12702d"
+    url = "https://github.com/JuliaBinaryWrappers/c_questdb_client_jll.jl/releases/download/c_questdb_client-v2.1.3+0/c_questdb_client.v2.1.3.i686-linux-gnu.tar.gz"
+[[c_questdb_client]]
+arch = "x86_64"
+git-tree-sha1 = "f3852002ffdb054b7cc596c7ec51b8ced589a097"
+os = "macos"
+
+    [[c_questdb_client.download]]
+    sha256 = "cd1fa0a5d5d648da580b67aa8368ace623a1d004b2d11b32c6e828231ea18538"
+    url = "https://github.com/JuliaBinaryWrappers/c_questdb_client_jll.jl/releases/download/c_questdb_client-v2.1.3+0/c_questdb_client.v2.1.3.x86_64-apple-darwin.tar.gz"
+[[c_questdb_client]]
+arch = "x86_64"
+git-tree-sha1 = "516d8eb224e99f65e758f7720683d7c3b5cd493f"
+libc = "glibc"
+os = "linux"
+
+    [[c_questdb_client.download]]
+    sha256 = "8623638f886d8174d8a9db217e5039f75da8c322dcea23809d0f6f70be59122f"
+    url = "https://github.com/JuliaBinaryWrappers/c_questdb_client_jll.jl/releases/download/c_questdb_client-v2.1.3+0/c_questdb_client.v2.1.3.x86_64-linux-gnu.tar.gz"
+[[c_questdb_client]]
+arch = "x86_64"
+git-tree-sha1 = "4499939ae59f4c4ee927db3a192976e50dc060d9"
+os = "freebsd"
+
+    [[c_questdb_client.download]]
+    sha256 = "d6ed7a30707b9897fcda1222ab086eed1bfdf18d6e20bc3ec1ba7269b6400751"
+    url = "https://github.com/JuliaBinaryWrappers/c_questdb_client_jll.jl/releases/download/c_questdb_client-v2.1.3+0/c_questdb_client.v2.1.3.x86_64-unknown-freebsd.tar.gz"
+[[c_questdb_client]]
+arch = "x86_64"
+git-tree-sha1 = "a64acb304d94e7e1000ea14628892c34132958d5"
+os = "windows"
+
+    [[c_questdb_client.download]]
+    sha256 = "4c35d41706e2e71555a88df62714fb45adb165494652c92f85df5d901a0c1ee8"
+    url = "https://github.com/JuliaBinaryWrappers/c_questdb_client_jll.jl/releases/download/c_questdb_client-v2.1.3+0/c_questdb_client.v2.1.3.x86_64-w64-mingw32.tar.gz"
